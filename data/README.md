@@ -1,0 +1,1 @@
+The LFW image dataset is intentionally not included in this repository. Obtain it from https://www.kaggle.com/datasets/jessicali9530/lfw-dataset and review its current terms and attribution requirements. See the root README for the expected directory structure and original LFW citation.
